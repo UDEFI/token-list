@@ -1,9 +1,9 @@
 {
-  "name": “UGG”,
+  "name": "UGG"
   "logoURI": "https://www.udefi.net/wp-content/uploads/2020/11/gold-horse512x512-2-e1604666309330.png",
   "keywords": [
-      “ugg”,
-      “UGG”,
+      "UGG",
+      "UGG",
       "yield"
     ],
     "timestamp": "2020-11-06T01:40:34.305Z",
@@ -11,8 +11,8 @@
       {
       "chainId": 1,
       "address": "0x4eEa4167891A59a690E708dc047014B70FF54760",
-      "name": “UGG”,
-      "symbol": “UGG”,
+      "name": "UGG",
+      "symbol": "UGG",
       "decimals": 18,
       "logoURI": "https://www.udefi.net/wp-content/uploads/2020/11/gold-horse512x512-2-e1604666309330.png"
       }
